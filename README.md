@@ -1,7 +1,7 @@
 # Expense-tracker
 A simple Python program to track personal expenses, categorize them, and visualize spending trends. Perfect for learning pandas and matplotlib while practicing data analysis.
 
---~Features~--
+--*Features*--
 
 Calculate total spending.
 
@@ -17,7 +17,7 @@ Line chart to visualize monthly expense trends.
 
 Menu-driven and interactive.
 
---~Requirements~--
+--*Requirements*--
 
 pandas
 
