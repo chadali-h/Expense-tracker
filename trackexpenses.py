@@ -72,7 +72,7 @@ while True:
         
         plt.bar(totals.index, totals.values)
         plt.xlabel("Category")
-        plt.xticks(rotation=45)
+        plt.xticks(rotation=30)
         plt.ylabel("Amount (Rs.)")
         plt.title("Expenses by Category")
         plt.grid(axis='y', zorder=0)
