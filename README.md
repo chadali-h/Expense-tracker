@@ -15,7 +15,8 @@ Get monthly totals.
 Bar chart for category-wise spending.<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/953fdd72-d135-4af7-9a73-69a07e9ab1f9" />
 
 
-Line chart to visualize monthly expense trends.<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/96bbe17b-bf2a-4df4-aebc-83e93ae9a7ae" />
+Line chart to visualize monthly expense trends.<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/7dca3adc-3133-4d2d-b863-5cc55302ad53" />
+
 
 
 Menu-driven and interactive.
