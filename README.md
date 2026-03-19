@@ -12,7 +12,8 @@ Get spending by specific date.
 
 Get monthly totals.
 
-Bar chart for category-wise spending.<img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/953fdd72-d135-4af7-9a73-69a07e9ab1f9" />
+Bar chart for category-wise spending.<img width="1280" height="620" alt="Figure_2" src="https://github.com/user-attachments/assets/ceeb9c4d-36cf-444d-bf32-9f01dd346c28" />
+
 
 
 Line chart to visualize monthly expense trends.<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/7dca3adc-3133-4d2d-b863-5cc55302ad53" />
